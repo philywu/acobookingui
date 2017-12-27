@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AC Booking</string>
+    <string name="title_event">Event</string>
+    <string name="title_channel">Channel</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_contact">Contact</string>
+
+
+    <string name="sans_serif">sans-serif</string>
+    <string name="sans_serif_light">sans-serif-light</string>
+    <string name="sans_serif_black">sans-serif-black</string>
+    <string name="sans_serif_medium">sans-serif-medium</string>
+</resources>
